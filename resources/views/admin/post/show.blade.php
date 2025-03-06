@@ -20,7 +20,7 @@
                 <a href="{{route('admin.posts.create')}}" class="btn btn-primary">Add Blog</a>
             </div>
         </div>
-        <!--end breadcrumb-->
+        
         <div class="card">
             <div class="card-body">
                 <div class="table-responsive">
