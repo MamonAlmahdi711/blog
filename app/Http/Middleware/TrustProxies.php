@@ -13,10 +13,10 @@ class TrustProxies extends Middleware
     protected $proxies;
 
     /**
-     * 
-     * 
-     * j
+     * jooood
    
+
+
      * @var int
      */
     protected $headers =
